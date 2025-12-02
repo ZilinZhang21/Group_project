@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 450737f3acc2c47659add82aa54c93f8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 321861
+  packageName: Crack Shader
+  packageVersion: 1.0
+  assetPath: Assets/CrackShader/Settings/Crack Universal Render Pipeline Asset_Renderer.asset
+  uploadId: 768459

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d6f30ce661c433d469214860f8dae51f
+timeCreated: 1505417478
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100488
+  packageName: Digital Rain FX
+  packageVersion: 1.2
+  assetPath: Assets/Digital Rain FX/Prefabs/2D/RedDigitalRain.prefab
+  uploadId: 409647

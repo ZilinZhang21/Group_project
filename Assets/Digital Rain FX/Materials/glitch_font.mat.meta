@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 44b27e93a52974e47bab9614e9307e9c
+timeCreated: 1505397847
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100488
+  packageName: Digital Rain FX
+  packageVersion: 1.2
+  assetPath: Assets/Digital Rain FX/Materials/glitch_font.mat
+  uploadId: 409647

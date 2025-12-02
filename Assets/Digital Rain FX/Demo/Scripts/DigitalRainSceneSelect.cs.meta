@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: cdc82891f25e76c49b97b8e2dad4c53f
+timeCreated: 1505479233
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100488
+  packageName: Digital Rain FX
+  packageVersion: 1.2
+  assetPath: Assets/Digital Rain FX/Demo/Scripts/DigitalRainSceneSelect.cs
+  uploadId: 409647

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc73c8b714aede442b3c7acb3f77355a
+timeCreated: 1505405543
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100488
+  packageName: Digital Rain FX
+  packageVersion: 1.2
+  assetPath: Assets/Digital Rain FX/Materials/glow.mat
+  uploadId: 409647

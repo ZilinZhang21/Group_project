@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7d3cb4122e19c94288cc888771990fe
+timeCreated: 1574350818
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100488
+  packageName: Digital Rain FX
+  packageVersion: 1.2
+  assetPath: Assets/Digital Rain FX/Prefabs/2D/GreenDigitalRain.prefab
+  uploadId: 409647

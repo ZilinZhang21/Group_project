@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c56440518e62af442961ea47fc29b24f
+timeCreated: 1505397847
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100488
+  packageName: Digital Rain FX
+  packageVersion: 1.2
+  assetPath: Assets/Digital Rain FX/Materials/digitalrain_font.mat
+  uploadId: 409647

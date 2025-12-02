@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61d5d56721c7b944791c5dec32648dcf
+timeCreated: 1505572701
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100488
+  packageName: Digital Rain FX
+  packageVersion: 1.2
+  assetPath: Assets/Digital Rain FX/Materials/grid1x.mat
+  uploadId: 409647

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b9fd590df05ab742a8a3f5bc1daad55
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100488
+  packageName: Digital Rain FX
+  packageVersion: 1.2
+  assetPath: Assets/Digital Rain FX/Prefabs/Scanlines/ScreenFlickerNew.prefab
+  uploadId: 409647

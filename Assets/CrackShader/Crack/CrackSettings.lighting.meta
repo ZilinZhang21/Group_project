@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb1aa8f590f8647e3a340f1d38725d03
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 321861
+  packageName: Crack Shader
+  packageVersion: 1.0
+  assetPath: Assets/CrackShader/Crack/CrackSettings.lighting
+  uploadId: 768459

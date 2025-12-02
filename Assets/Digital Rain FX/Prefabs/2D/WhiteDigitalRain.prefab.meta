@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4a848ecf749c6524c80cfa68c55b31d9
+timeCreated: 1505419705
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100488
+  packageName: Digital Rain FX
+  packageVersion: 1.2
+  assetPath: Assets/Digital Rain FX/Prefabs/2D/WhiteDigitalRain.prefab
+  uploadId: 409647
